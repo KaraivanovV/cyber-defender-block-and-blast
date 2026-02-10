@@ -1,0 +1,413 @@
+# Book 1 – Digital Explorer | # Book 1 – Digital Explorer
+*Запознавање со интернетот и основна дигитална безбедност* | *Getting to know the internet and basic digital safety*
+
+> „Интернетот е како голем град –  
+> има светла, игри и пријатели,  
+> но и места каде што треба да бидеш внимателен.“  
+|  
+> “The internet is like a big city –  
+> full of lights, games, and friends,  
+> but also places where you need to be careful.”
+
+---
+
+## 1. Што е интернет? | ## 1. What is the internet?
+**A)** Видео игра | **A)** Video game  
+**B)** Огромна мрежа што ги поврзува компјутерите | **B)** A huge network that connects computers  
+**C)** Телевизор | **C)** Television  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Интернетот им дозволува на уредите да зборуваат меѓу себе. | *Hint:* The internet allows devices to communicate with each other.
+
+---
+
+## 2. Дали сите луѓе на интернет се тие што велат дека се? | ## 2. Are all people on the internet who they say they are?
+**A)** Да, секогаш | **A)** Yes, always  
+**B)** Не, некои може да се преправаат | **B)** No, some may pretend  
+**C)** Само децата | **C)** Only children  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Онлајн, некои луѓе носат дигитални маски. | *Hint:* Online, some people wear digital masks.
+
+---
+
+## 3. Што е корисничко име (username)? | ## 3. What is a username?
+**A)** Тајна лозинка | **A)** A secret password  
+**B)** Твоето вистинско име | **B)** Your real name  
+**C)** Име со кое се претставуваш онлајн | **C)** A name you use to represent yourself online  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Тоа е твојот дигитален прекар. | *Hint:* It is your digital nickname.
+
+---
+
+## 4. Дали е безбедно да го кажеш твоето вистинско име на секого онлајн? | ## 4. Is it safe to tell your real name to everyone online?
+**A)** Да | **A)** Yes  
+**B)** Само понекогаш | **B)** Only sometimes  
+**C)** Не, треба да бидеш внимателен | **C)** No, you need to be careful  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Личните информации се како богатство. | *Hint:* Personal information is like treasure.
+
+---
+
+## 5. Што е лозинка (password)? | ## 5. What is a password?
+**A)** Таен клуч за влез | **A)** A secret key for access  
+**B)** Име на игра | **B)** Name of a game  
+**C)** Слика | **C)** Picture  
+
+**Точен одговор:** A | **Correct answer:** A  
+*Hint:* Без клуч – нема влез. | *Hint:* No key – no entry.
+
+---
+
+## 6. Која лозинка е посигурна? | ## 6. Which password is more secure?
+**A)** 1234 | **A)** 1234  
+**B)** password | **B)** password  
+**C)** A9!mZ | **C)** A9!mZ  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Мешањето букви, бројки и симболи ја прави лозинката посилна. | *Hint:* Mixing letters, numbers, and symbols makes a password stronger.
+
+---
+
+## 7. Што треба да направиш ако некој те праша за лозинката? | ## 7. What should you do if someone asks for your password?
+**A)** Да му ја кажеш | **A)** Tell them  
+**B)** Да ја смениш и да не ја споделуваш | **B)** Change it and do not share it  
+**C)** Да ја објавиш | **C)** Post it  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Лозинката е само твоја. | *Hint:* Your password is only yours.
+
+---
+
+## 8. Дали е добра идеја да користиш иста лозинка насекаде? | ## 8. Is it a good idea to use the same password everywhere?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само за игри | **C)** Only for games  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Ако една врата се отвори – сите се во опасност. | *Hint:* If one door opens, all are in danger.
+
+---
+
+## 9. Што е апликација? | ## 9. What is an application?
+**A)** Играчка | **A)** A toy  
+**B)** Програма што извршува задача | **B)** A program that performs a task  
+**C)** Кабел | **C)** Cable  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Апликациите ни помагаат да играме, учиме и комуницираме. | *Hint:* Apps help us play, learn, and communicate.
+
+---
+
+## 10. Од каде е најбезбедно да симнуваш апликации? | ## 10. Where is it safest to download apps from?
+**A)** Од непознати линкови | **A)** From unknown links  
+**B)** Од официјални продавници | **B)** From official stores  
+**C)** Од пораки | **C)** From messages  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Доверливите продавници проверуваат што нудат. | *Hint:* Trusted stores check what they offer.
+
+---
+
+## 11. Што е компјутерски вирус? | ## 11. What is a computer virus?
+**A)** Болест за луѓе | **A)** A disease for people  
+**B)** Лоша програма | **B)** A harmful program  
+**C)** Интернет игра | **C)** An online game  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Вирусите можат да му наштетат на уредот. | *Hint:* Viruses can harm your device.
+
+---
+
+## 12. Како вирус може да влезе во уред? | ## 12. How can a virus enter a device?
+**A)** Преку сомнителен фајл | **A)** Through a suspicious file  
+**B)** Преку батеријата | **B)** Through the battery  
+**C)** Преку звук | **C)** Through sound  
+
+**Точен одговор:** A | **Correct answer:** A  
+*Hint:* Не отворај сè што ќе добиеш. | *Hint:* Do not open everything you receive.
+
+---
+
+## 13. Што е линк (link)? | ## 13. What is a link?
+**A)** Копче | **A)** Button  
+**B)** Дигитална врата кон друго место | **B)** A digital door to another place  
+**C)** Слика | **C)** Picture  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Линковите нè носат на други страници. | *Hint:* Links take us to other pages.
+
+---
+
+## 14. Дали сите линкови се безбедни? | ## 14. Are all links safe?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само сините | **C)** Only blue ones  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Некои линкови се замки. | *Hint:* Some links are traps.
+
+---
+
+## 15. Што значи „кликни внимателно“? | ## 15. What does “click carefully” mean?
+**A)** Кликни брзо | **A)** Click fast  
+**B)** Не кликај ништо | **B)** Click nothing  
+**C)** Размисли пред да кликнеш | **C)** Think before you click  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Паметниот клик те чува безбеден. | *Hint:* A smart click keeps you safe.
+
+---
+
+## 16. Што е Wi-Fi? | ## 16. What is Wi-Fi?
+**A)** Кабел | **A)** Cable  
+**B)** Безжична интернет врска | **B)** Wireless internet connection  
+**C)** Батерија | **C)** Battery  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Wi-Fi не се гледа, но работи. | *Hint:* Wi-Fi is invisible, but it works.
+
+---
+
+## 17. Дали јавен Wi-Fi е секогаш безбеден? | ## 17. Is public Wi-Fi always safe?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само навечер | **C)** Only at night  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Јавните мрежи може да бидат ризични. | *Hint:* Public networks can be risky.
+
+---
+
+## 18. Што е уред? | ## 18. What is a device?
+**A)** Книга | **A)** A book  
+**B)** Телефон, таблет или компјутер | **B)** Phone, tablet, or computer  
+**C)** Стол | **C)** Chair  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Уредите ни помагаат да пристапиме на интернет. | *Hint:* Devices help us access the internet.
+
+---
+
+## 19. Што треба да направиш кога не го користиш уредот? | ## 19. What should you do when you are not using your device?
+**A)** Да го заклучиш | **A)** Lock it  
+**B)** Да го оставиш отклучен | **B)** Leave it unlocked  
+**C)** Да го исклучиш интернетот засекогаш | **C)** Turn off the internet forever  
+
+**Точен одговор:** A | **Correct answer:** A  
+*Hint:* Заклучен уред = побезбеден уред. | *Hint:* A locked device is a safer device.
+
+---
+
+## 20. Што значи „онлајн“? | ## 20. What does “online” mean?
+**A)** Исклучен | **A)** Turned off  
+**B)** Поврзан на интернет | **B)** Connected to the internet  
+**C)** Расипан | **C)** Broken  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Онлајн значи поврзан. | *Hint:* Online means connected.
+
+---
+
+## 21. Што значи „офлајн“? | ## 21. What does “offline” mean?
+**A)** Поврзан | **A)** Connected  
+**B)** Без интернет | **B)** Without internet  
+**C)** Вирус | **C)** Virus  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Понекогаш е добро да се биде офлајн. | *Hint:* Sometimes it is good to be offline.
+
+---
+
+## 22. Кој е одговорен за твојата безбедност онлајн? | ## 22. Who is responsible for your online safety?
+**A)** Само компјутерот | **A)** Only the computer  
+**B)** Само интернетот | **B)** Only the internet  
+**C)** Ти и возрасните што ти помагаат | **C)** You and the adults who help you  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Безбедноста е тимска работа. | *Hint:* Safety is teamwork.
+
+---
+
+## 23. Што е профил? | ## 23. What is a profile?
+**A)** Твој дигитален лик | **A)** Your digital identity  
+**B)** Кабел | **B)** Cable  
+**C)** Игра | **C)** Game  
+
+**Точен одговор:** A | **Correct answer:** A  
+*Hint:* Профилот покажува кој си онлајн. | *Hint:* A profile shows who you are online.
+
+---
+
+## 24. Дали сè што гледаш онлајн е вистина? | ## 24. Is everything you see online true?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само видеата | **C)** Only videos  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Проверувај и размислувај. | *Hint:* Check and think.
+
+---
+
+## 25. Што е порака? | ## 25. What is a message?
+**A)** Игра | **A)** Game  
+**B)** Дигитално писмо | **B)** A digital letter  
+**C)** Апликација | **C)** Application  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Пораките носат зборови. | *Hint:* Messages carry words.
+
+---
+
+## 26. Што да направиш ако добиеш порака од непознат? | ## 26. What should you do if you receive a message from a stranger?
+**A)** Да одговориш | **A)** Reply  
+**B)** Да побараш помош од возрасен | **B)** Ask an adult for help  
+**C)** Да ја споделиш | **C)** Share it  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Не мораш сам да решаваш сè. | *Hint:* You do not have to handle everything alone.
+
+---
+
+## 27. Што значи да бидеш љубезен онлајн? | ## 27. What does it mean to be kind online?
+**A)** Да викаш | **A)** Shout  
+**B)** Да се однесуваш убаво | **B)** Behave kindly  
+**C)** Да игнорираш | **C)** Ignore  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Онлајн правилата се исти како во реалниот свет. | *Hint:* Online rules are the same as in real life.
+
+---
+
+## 28. Што е спам? | ## 28. What is spam?
+**A)** Игра | **A)** Game  
+**B)** Несакани пораки | **B)** Unwanted messages  
+**C)** Видео | **C)** Video  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Спамот не е за тебе. | *Hint:* Spam is not for you.
+
+---
+
+## 29. Што правиш кога ќе видиш спам? | ## 29. What do you do when you see spam?
+**A)** Кликнуваш | **A)** Click  
+**B)** Го игнорираш и пријавуваш | **B)** Ignore and report it  
+**C)** Го праќаш на пријатели | **C)** Send it to friends  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Не храни го спамот. | *Hint:* Do not feed spam.
+
+---
+
+## 30. Што е слика на профил? | ## 30. What is a profile picture?
+**A)** Кабел | **A)** Cable  
+**B)** Фотографија или икона | **B)** Photo or icon  
+**C)** Лозинка | **C)** Password  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Таа те претставува. | *Hint:* It represents you.
+
+---
+
+## 31. Дали мора да е твоја вистинска фотографија? | ## 31. Does it have to be your real photo?
+**A)** Да | **A)** Yes  
+**B)** Не, може и цртеж | **B)** No, it can be a drawing  
+**C)** Само за возрасни | **C)** Only for adults  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Приватноста е важна. | *Hint:* Privacy is important.
+
+---
+
+## 32. Што значи „приватно“? | ## 32. What does “private” mean?
+**A)** За сите | **A)** For everyone  
+**B)** Само за тебе и блиските | **B)** Only for you and close people  
+**C)** За интернет | **C)** For the internet  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Не сè е за споделување. | *Hint:* Not everything is for sharing.
+
+---
+
+## 33. Што значи „јавно“? | ## 33. What does “public” mean?
+**A)** Само за тебе | **A)** Only for you  
+**B)** За сите | **B)** For everyone  
+**C)** За никој | **C)** For no one  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Јавно значи дека сите гледаат. | *Hint:* Public means everyone can see.
+
+---
+
+## 34. Дали треба сè да биде јавно? | ## 34. Should everything be public?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само сликите | **C)** Only pictures  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Чувај нешто и за себе. | *Hint:* Keep some things for yourself.
+
+---
+
+## 35. Што е дигитален траг? | ## 35. What is a digital footprint?
+**A)** Чевли | **A)** Shoes  
+**B)** Сè што оставаш онлајн | **B)** Everything you leave online  
+**C)** Игра | **C)** Game  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Интернетот памети. | *Hint:* The internet remembers.
+
+---
+
+## 36. Дали дигиталниот траг лесно исчезнува? | ## 36. Does a digital footprint disappear easily?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само ноќе | **C)** Only at night  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Затоа размисли пред да објавиш. | *Hint:* That is why you should think before posting.
+
+---
+
+## 37. Што значи „размисли пред да објавиш“? | ## 37. What does “think before you post” mean?
+**A)** Објави сè | **A)** Post everything  
+**B)** Почекај | **B)** Wait  
+**C)** Провери дали е безбедно | **C)** Check if it is safe  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Паметната објава е безбедна објава. | *Hint:* A smart post is a safe post.
+
+---
+
+## 38. Кој може да ти помогне ако нешто те исплаши онлајн? | ## 38. Who can help you if something scares you online?
+**A)** Никој | **A)** Nobody  
+**B)** Родител или наставник | **B)** A parent or teacher  
+**C)** Компјутерот | **C)** The computer  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Помошта е секогаш блиску. | *Hint:* Help is always close.
+
+---
+
+## 39. Дали е во ред да побараш помош? | ## 39. Is it okay to ask for help?
+**A)** Не | **A)** No  
+**B)** Само понекогаш | **B)** Only sometimes  
+**C)** Да, секогаш | **C)** Yes, always  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Храброст е да побараш помош. | *Hint:* Asking for help is brave.
+
+---
+
+## 40. Кое е златното правило на интернетот? | ## 40. What is the golden rule of the internet?
+**A)** Кликај брзо | **A)** Click fast  
+**B)** Биди паметен, љубезен и внимателен | **B)** Be smart, kind, and careful  
+**C)** Верувај им на сите | **C)** Trust everyone  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Паметниот корисник е безбеден корисник. | *Hint:* A smart user is a safe user.
+
+---
+
