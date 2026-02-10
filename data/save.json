@@ -20,7 +20,7 @@
     }
   },
   "highscores": {
-    "story": 470
+    "story": 600
   },
   "achievements": {},
   "settings": {
@@ -36,8 +36,8 @@
   "daily_challenge_on": false,
   "daily_seed": 0,
   "story_max_unlocked": 20,
-  "story_best": 470,
-  "wallet": 9626,
+  "story_best": 600,
+  "wallet": 9743,
   "tutorial_completed": true,
   "completed_tutorials": [
     1
@@ -49,8 +49,8 @@
     "tetris_time_bonus": 0
   },
   "checkpoint_hearts": {
-    "6": 4,
-    "6": 2
+    "6": 2,
+    "8": 4
   },
   "owned_books": [],
   "achievement_progress": {
@@ -60,7 +60,7 @@
     "first_purchase": 1,
     "close_call": 1,
     "getting_started": 5,
-    "checkpoint_champion": 2
+    "checkpoint_champion": 3
   },
   "unlocked_achievements": [
     "perfect_defense",
