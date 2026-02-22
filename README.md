@@ -2,6 +2,27 @@
 
 A kid-friendly arcade game that mixes **Tetris-style firewall building** with **Space-Invaders-style defense**, teaching internet safety through quick scenario “cards” that affect gameplay.
 
+---
+
+## 🚀 Quick Launch (Windows EXE — No Python required)
+
+A pre-built Windows executable is included in the `dist\CyberDefender\` folder.
+
+1. Open the `dist\CyberDefender\` folder
+2. Double-click **`CyberDefender.exe`** to start the game
+
+> **Important:** Do **not** move `CyberDefender.exe` out of its folder.  
+> It depends on the files inside `_internal\` to run correctly.  
+> To share the game, zip the entire `dist\CyberDefender\` folder and send it as-is.
+
+---
+
+## 🎥 Included Video
+
+The file **`Screen Recording 2026-02-10 130238.mp4`** in the project root is a gameplay recording that demonstrates the game in action — showing the main menu, Tetris/Space Invaders hybrid gameplay, the educational scenario cards, and a boss encounter. You can watch it to get a quick overview of how the game looks and plays before running it.
+
+---
+
 - **Story Mode:** 4 Worlds × 4 stages (3 stages + boss) ~15–20 minutes total
 - **Endless Mode:** infinite waves with increasing difficulty
 - **Progression:** XP ranks, coins, cosmetics, achievements

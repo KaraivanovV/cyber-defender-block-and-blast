@@ -1,0 +1,75 @@
+{
+  "version": 2,
+  "coins": 0,
+  "xp": 0,
+  "unlocked_world": 1,
+  "cosmetics": {
+    "ship_skin": 0,
+    "trail": 0,
+    "firewall_palette": 0,
+    "unlocked": {
+      "ship_skin": [
+        0
+      ],
+      "trail": [
+        0
+      ],
+      "firewall_palette": [
+        0
+      ]
+    }
+  },
+  "highscores": {
+    "story": 600
+  },
+  "achievements": {},
+  "settings": {
+    "lang": "en",
+    "resolution": [
+      1280,
+      720
+    ],
+    "fullscreen": false,
+    "music_vol": 0.8,
+    "sfx_vol": 1.0
+  },
+  "daily_challenge_on": false,
+  "daily_seed": 0,
+  "story_max_unlocked": 20,
+  "story_best": 600,
+  "wallet": 9743,
+  "tutorial_completed": true,
+  "completed_tutorials": [
+    1
+  ],
+  "upgrades": {
+    "obstacle_slots": 1,
+    "fire_rate_lvl": 13,
+    "block_hp": 5,
+    "tetris_time_bonus": 0
+  },
+  "checkpoint_hearts": {
+    "6": 2,
+    "8": 4
+  },
+  "owned_books": [],
+  "achievement_progress": {
+    "perfect_defense": 1,
+    "untouchable": 3,
+    "first_steps": 1,
+    "first_purchase": 1,
+    "close_call": 1,
+    "getting_started": 5,
+    "checkpoint_champion": 3
+  },
+  "unlocked_achievements": [
+    "perfect_defense",
+    "first_steps",
+    "first_purchase",
+    "close_call",
+    "getting_started",
+    "wealthy",
+    "rich"
+  ],
+  "claimed_achievements": []
+}

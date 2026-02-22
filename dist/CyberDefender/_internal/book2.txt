@@ -1,0 +1,412 @@
+# Book 2 – Password Guardian | # Book 2 – Password Guardian
+*Лозинки, тајни и чување на дигиталното богатство* | *Passwords, secrets, and protecting digital treasure*
+
+> „Лозинката е како магичен штит.  
+> Колку е посилна – толку си побезбеден.  
+> Секој херој ги чува своите тајни.“  
+|  
+> “A password is like a magic shield.  
+> The stronger it is – the safer you are.  
+> Every hero protects their secrets.”
+
+---
+
+## 41. Што е лозинка? | ## 41. What is a password?
+**A)** Тајна за пристап | **A)** A secret for access  
+**B)** Име на игра | **B)** Name of a game  
+**C)** Слика | **C)** Picture  
+
+**Точен одговор:** A | **Correct answer:** A  
+*Hint:* Лозинката ја чува вратата затворена. | *Hint:* A password keeps the door closed.
+
+---
+
+## 42. Дали лозинката треба да биде тајна? | ## 42. Should a password be secret?
+**A)** Не | **A)** No  
+**B)** Да | **B)** Yes  
+**C)** Само за возрасни | **C)** Only for adults  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Тајните се чуваат, не се делат. | *Hint:* Secrets are kept, not shared.
+
+---
+
+## 43. Која лозинка е најслаба? | ## 43. Which password is the weakest?
+**A)** cat | **A)** cat  
+**B)** 123456 | **B)** 123456  
+**C)** R7!kP9 | **C)** R7!kP9  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Лесните лозинки лесно се погодуваат. | *Hint:* Easy passwords are easy to guess.
+
+---
+
+## 44. Колку знаци е добро да има лозинка? | ## 44. How many characters should a password have?
+**A)** 2 | **A)** 2  
+**B)** 4 | **B)** 4  
+**C)** 8 или повеќе | **C)** 8 or more  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Подолг штит = подобра заштита. | *Hint:* A longer shield means better protection.
+
+---
+
+## 45. Што прави лозинка силна? | ## 45. What makes a password strong?
+**A)** Само букви | **A)** Only letters  
+**B)** Букви, бројки и симболи | **B)** Letters, numbers, and symbols  
+**C)** Само бројки | **C)** Only numbers  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Различни знаци = посилна лозинка. | *Hint:* Different characters make a stronger password.
+
+---
+
+## 46. Дали името е добра лозинка? | ## 46. Is a name a good password?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само ако е долго | **C)** Only if it is long  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Името лесно се погодува. | *Hint:* Names are easy to guess.
+
+---
+
+## 47. Што е PIN код? | ## 47. What is a PIN code?
+**A)** Кратка лозинка со бројки | **A)** A short numeric password  
+**B)** Видео | **B)** Video  
+**C)** Игра | **C)** Game  
+
+**Точен одговор:** A | **Correct answer:** A  
+*Hint:* PIN кодот е како мини лозинка. | *Hint:* A PIN is like a mini password.
+
+---
+
+## 48. Дали PIN кодот треба да се споделува? | ## 48. Should a PIN code be shared?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само со пријатели | **C)** Only with friends  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Само ти треба да го знаеш. | *Hint:* Only you should know it.
+
+---
+
+## 49. Што значи „најава“ (login)? | ## 49. What does “login” mean?
+**A)** Исклучување | **A)** Shutdown  
+**B)** Влегување со лозинка | **B)** Logging in with a password  
+**C)** Бришење | **C)** Deleting  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Најава = влез. | *Hint:* Login means entry.
+
+---
+
+## 50. Што значи „одјава“ (logout)? | ## 50. What does “logout” mean?
+**A)** Влез | **A)** Entry  
+**B)** Спиење | **B)** Sleeping  
+**C)** Излез од профил | **C)** Logging out of an account  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Излези кога ќе завршиш. | *Hint:* Log out when you are done.
+
+---
+
+## 51. Кога треба да се одјавиш? | ## 51. When should you log out?
+**A)** Никогаш | **A)** Never  
+**B)** Кога завршиш со користење | **B)** When you finish using it  
+**C)** Само дома | **C)** Only at home  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Одјавата те штити. | *Hint:* Logging out protects you.
+
+---
+
+## 52. Што е тајна информација? | ## 52. What is secret information?
+**A)** Времето | **A)** The weather  
+**B)** Лозинка и адреса | **B)** Password and address  
+**C)** Боја | **C)** Color  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Некои информации се приватни. | *Hint:* Some information is private.
+
+---
+
+## 53. Дали е безбедно да пишуваш лозинки на хартија? | ## 53. Is it safe to write passwords on paper?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само во училиште | **C)** Only at school  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Хартијата може да се изгуби. | *Hint:* Paper can be lost.
+
+---
+
+## 54. Што е безбедносно прашање? | ## 54. What is a security question?
+**A)** Прашање за игра | **A)** A game question  
+**B)** Дополнителна заштита | **B)** Extra protection  
+**C)** Загатка | **C)** A riddle  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Помага ако ја заборавиш лозинката. | *Hint:* It helps if you forget your password.
+
+---
+
+## 55. Кој одговор е добар за безбедносно прашање? | ## 55. Which answer is good for a security question?
+**A)** Лесно погодлив | **A)** Easy to guess  
+**B)** Таен и уникатен | **B)** Secret and unique  
+**C)** Ист како лозинката | **C)** The same as the password  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Никој не треба да го погоди. | *Hint:* No one should guess it.
+
+---
+
+## 56. Што е „хакирање“? | ## 56. What is “hacking”?
+**A)** Поправање компјутер | **A)** Fixing a computer  
+**B)** Неовластен влез | **B)** Unauthorized access  
+**C)** Игра | **C)** Game  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Хакерите влегуваат без дозвола. | *Hint:* Hackers enter without permission.
+
+---
+
+## 57. Како се заштитуваш од хакери? | ## 57. How do you protect yourself from hackers?
+**A)** Со слаби лозинки | **A)** With weak passwords  
+**B)** Со силни лозинки | **B)** With strong passwords  
+**C)** Со игри | **C)** With games  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Силната лозинка е штит. | *Hint:* A strong password is a shield.
+
+---
+
+## 58. Дали треба често да ја менуваш лозинката? | ## 58. Should you change your password often?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само еднаш | **C)** Only once  
+
+**Точен одговор:** A | **Correct answer:** A  
+*Hint:* Нов клуч, нова безбедност. | *Hint:* New key, new security.
+
+---
+
+## 59. Што е двоен чекор на заштита? | ## 59. What is two-step protection?
+**A)** Две игри | **A)** Two games  
+**B)** Лозинка + дополнителен код | **B)** Password + extra code  
+**C)** Два профили | **C)** Two profiles  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Два штита се подобри од еден. | *Hint:* Two shields are better than one.
+
+---
+
+## 60. Дали е добро да користиш ист код насекаде? | ## 60. Is it good to use the same code everywhere?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само дома | **C)** Only at home  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Различни врати, различни клучеви. | *Hint:* Different doors need different keys.
+
+---
+
+## 61. Што правиш ако заборавиш лозинка? | ## 61. What do you do if you forget your password?
+**A)** Се откажуваш | **A)** Give up  
+**B)** Бараш помош | **B)** Ask for help  
+**C)** Погодуваш | **C)** Guess  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Помошта е секогаш опција. | *Hint:* Help is always an option.
+
+---
+
+## 62. Кој може да ти помогне со лозинки? | ## 62. Who can help you with passwords?
+**A)** Непознат | **A)** A stranger  
+**B)** Родител или наставник | **B)** A parent or teacher  
+**C)** Секој | **C)** Anyone  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Возрасните се тука да помогнат. | *Hint:* Adults are here to help.
+
+---
+
+## 63. Дали треба да користиш лозинки на јавни компјутери? | ## 63. Should you use passwords on public computers?
+**A)** Да | **A)** Yes  
+**B)** Внимателно или не | **B)** Carefully or not at all  
+**C)** Секогаш | **C)** Always  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Јавните уреди се ризични. | *Hint:* Public devices are risky.
+
+---
+
+## 64. Што е профилна заштита? | ## 64. What is profile protection?
+**A)** Игра | **A)** Game  
+**B)** Начин да се чува профилот | **B)** A way to protect your account  
+**C)** Боја | **C)** Color  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Заштитата го чува твојот профил. | *Hint:* Protection keeps your account safe.
+
+---
+
+## 65. Дали лозинката е игра? | ## 65. Is a password a game?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Понекогаш | **C)** Sometimes  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Лозинката е сериозна работа. | *Hint:* Passwords are serious.
+
+---
+
+## 66. Што е најдобро да направиш по користење туѓ уред? | ## 66. What is the best thing to do after using someone else’s device?
+**A)** Ништо | **A)** Nothing  
+**B)** Да се одјавиш | **B)** Log out  
+**C)** Да ја смениш играта | **C)** Change the game  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Одјавата те штити. | *Hint:* Logging out protects you.
+
+---
+
+## 67. Што значи „чувај ја лозинката“? | ## 67. What does “protect your password” mean?
+**A)** Кажи ја | **A)** Tell it  
+**B)** Запиши ја јавно | **B)** Write it publicly  
+**C)** Не ја споделувај | **C)** Do not share it  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Тајната останува тајна. | *Hint:* A secret stays a secret.
+
+---
+
+## 68. Дали лозинките се важни? | ## 68. Are passwords important?
+**A)** Не | **A)** No  
+**B)** Да | **B)** Yes  
+**C)** Само за возрасни | **C)** Only for adults  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Тие ја чуваат твојата дигитална врата. | *Hint:* They protect your digital door.
+
+---
+
+## 69. Што е дигитална безбедност? | ## 69. What is digital security?
+**A)** Игра | **A)** Game  
+**B)** Начин да се заштитиш онлајн | **B)** A way to protect yourself online  
+**C)** Видео | **C)** Video  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Безбедноста те штити. | *Hint:* Security protects you.
+
+---
+
+## 70. Кој е чуварот на лозинките? | ## 70. Who is the guardian of passwords?
+**A)** Интернетот | **A)** The internet  
+**B)** Компјутерот | **B)** The computer  
+**C)** Ти | **C)** You  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Ти си херојот. | *Hint:* You are the hero.
+
+---
+
+## 71. Дали лозинките треба да се паметат? | ## 71. Should passwords be memorized?
+**A)** Да | **A)** Yes  
+**B)** Не | **B)** No  
+**C)** Само понекогаш | **C)** Only sometimes  
+
+**Точен одговор:** A | **Correct answer:** A  
+*Hint:* Паметењето е подобро од запишување. | *Hint:* Memorizing is better than writing them down.
+
+---
+
+## 72. Што е приватен податок? | ## 72. What is private information?
+**A)** Боја | **A)** Color  
+**B)** Адреса | **B)** Address  
+**C)** Време | **C)** Time  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Приватните податоци се чуваат. | *Hint:* Private data should be protected.
+
+---
+
+## 73. Што не треба да споделуваш онлајн? | ## 73. What should you not share online?
+**A)** Лозинки | **A)** Passwords  
+**B)** Хоби | **B)** Hobbies  
+**C)** Игра | **C)** Game  
+
+**Точен одговор:** A | **Correct answer:** A  
+*Hint:* Лозинките се тајни. | *Hint:* Passwords are secrets.
+
+---
+
+## 74. Дали лозинките штитат игри? | ## 74. Do passwords protect games?
+**A)** Не | **A)** No  
+**B)** Да | **B)** Yes  
+**C)** Само апликации | **C)** Only applications  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Тие штитат сè. | *Hint:* They protect everything.
+
+---
+
+## 75. Што е добар навик? | ## 75. What is a good habit?
+**A)** Да споделуваш лозинки | **A)** Sharing passwords  
+**B)** Да ги менуваш лозинките | **B)** Changing passwords  
+**C)** Да ги игнорираш | **C)** Ignoring them  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Добра навика = добра заштита. | *Hint:* A good habit means good protection.
+
+---
+
+## 76. Дали лозинката е твоја одговорност? | ## 76. Is your password your responsibility?
+**A)** Не | **A)** No  
+**B)** Да | **B)** Yes  
+**C)** На интернетот | **C)** The internet’s  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Ти си чуварот. | *Hint:* You are the guardian.
+
+---
+
+## 77. Што е најважно кај лозинките? | ## 77. What is most important about passwords?
+**A)** Да се лесни | **A)** That they are easy  
+**B)** Да се кратки | **B)** That they are short  
+**C)** Да се безбедни | **C)** That they are secure  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Безбедноста е прва. | *Hint:* Security comes first.
+
+---
+
+## 78. Дали лозинките те прават херој? | ## 78. Do passwords make you a hero?
+**A)** Не | **A)** No  
+**B)** Да, ако ги чуваш | **B)** Yes, if you protect them  
+**C)** Само во игра | **C)** Only in a game  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Хероите ги чуваат тајните. | *Hint:* Heroes protect secrets.
+
+---
+
+## 79. Што прави Password Guardian? | ## 79. What does the Password Guardian do?
+**A)** Ги дели лозинките | **A)** Shares passwords  
+**B)** Ги чува тајните | **B)** Protects secrets  
+**C)** Ги брише | **C)** Deletes them  
+
+**Точен одговор:** B | **Correct answer:** B  
+*Hint:* Чуварот штити. | *Hint:* The guardian protects.
+
+---
+
+## 80. Кое е златното правило за лозинки? | ## 80. What is the golden rule for passwords?
+**A)** Споделувај ги | **A)** Share them  
+**B)** Игнорирај ги | **B)** Ignore them  
+**C)** Чувај ги силни и тајни | **C)** Keep them strong and secret  
+
+**Точен одговор:** C | **Correct answer:** C  
+*Hint:* Силна лозинка = безбеден херој. | *Hint:* A strong password means a safe hero.
+
+---
