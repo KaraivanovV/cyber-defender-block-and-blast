@@ -84,7 +84,7 @@ class AchievementsScene(BaseScene):
         # Achievement grid: 4 columns for better spacing
         cols = 4
         card_w = 240
-        card_h = 160
+        card_h = 185
         gap_x = 18
         gap_y = 20
         
@@ -137,24 +137,24 @@ class AchievementsScene(BaseScene):
             pg.draw.rect(surf, bg_color, card_rect, border_radius=12)
             pg.draw.rect(surf, border_color, card_rect, width=2, border_radius=12)
             
-            # Achievement name
+            # Achievement name (pinned to top)
             name = achievement.name_en if lang == "en" else achievement.name_mk
-            name_y = card_rect.y + 16
-            draw_text(surf, name, fonts.ui_bold, text_color, (card_rect.x + 16, name_y), max_w=card_w - 32)
+            draw_text(surf, name, fonts.ui_bold, text_color, (card_rect.x + 14, card_rect.y + 12), max_w=card_w - 28)
             
-            # Achievement description + reward
+            # Achievement description (fixed slot below name, ends ~y+100)
             desc = achievement.desc_en if lang == "en" else achievement.desc_mk
-            # Add reward info to description
+            draw_text(surf, desc, fonts.ui, text_color, (card_rect.x + 14, card_rect.y + 38), max_w=card_w - 28)
+            
+            # Reward label (pinned at bottom-65, always same y regardless of desc length)
             if achievement.reward_coins > 0:
-                reward_text = f"Reward: {achievement.reward_coins} coins" if lang == "en" else f"Награда: {achievement.reward_coins} coins"
-                desc = f"{desc}\n{reward_text}"
-            desc_y = card_rect.y + 45
-            draw_text(surf, desc, fonts.ui, text_color, (card_rect.x + 16, desc_y), max_w=card_w - 32)
+                reward_label = f"Reward: {achievement.reward_coins}" if lang == "en" else f"Награда: {achievement.reward_coins}"
+                draw_text(surf, reward_label, fonts.ui, colors["yellow"],
+                          (card_rect.x + 14, card_rect.bottom - 65), max_w=card_w - 28)
             
             # Check if claimed
             is_claimed = achievement.id in sd.claimed_achievements
             
-            # Bottom section: progress bar, claim button, or claimed status
+            # Bottom section: progress bar, claim button, or claimed status (all pinned to card bottom)
             if not is_unlocked:
                 # NOT UNLOCKED - Show progress bar for incremental achievements
                 if achievement.requirement > 1:
@@ -162,27 +162,22 @@ class AchievementsScene(BaseScene):
                     
                     # Progress text
                     progress_text = f"{current}/{required}"
-                    prog_y = card_rect.bottom - 45
-                    draw_text(surf, progress_text, fonts.ui, text_color, (card_rect.x + 16, prog_y), max_w=card_w - 32)
+                    draw_text(surf, progress_text, fonts.ui, text_color, (card_rect.x + 14, card_rect.bottom - 38), max_w=card_w - 28)
                     
-                    # Progress bar
-                    bar_x = card_rect.x + 16
-                    bar_y = card_rect.bottom - 22
-                    bar_w = card_w - 32
+                    # Progress bar pinned to bottom
+                    bar_x = card_rect.x + 14
+                    bar_y = card_rect.bottom - 18
+                    bar_w = card_w - 28
                     bar_h = 10
-                    
-                    # Background
                     pg.draw.rect(surf, colors["line"], (bar_x, bar_y, bar_w, bar_h), border_radius=5)
-                    
-                    # Fill
                     if required > 0:
                         fill_w = int((current / required) * bar_w)
                         if fill_w > 0:
                             pg.draw.rect(surf, colors["accent"], (bar_x, bar_y, fill_w, bar_h), border_radius=5)
             
             elif not is_claimed:
-                # UNLOCKED BUT NOT CLAIMED - Show claim button
-                claim_btn_rect = pg.Rect(card_rect.x + 16, card_rect.bottom - 40, card_w - 32, 30)
+                # UNLOCKED BUT NOT CLAIMED - Show claim button pinned to bottom
+                claim_btn_rect = pg.Rect(card_rect.x + 14, card_rect.bottom - 38, card_w - 28, 30)
                 claim_text = f"CLAIM +{achievement.reward_coins}" if lang == "en" else f"ЗЕМИ +{achievement.reward_coins}"
                 
                 def make_claim_callback(ach_id):
@@ -196,10 +191,9 @@ class AchievementsScene(BaseScene):
                 self.btns.append(Button(claim_btn_rect, claim_text, make_claim_callback(achievement.id)))
             
             else:
-                # CLAIMED - Show checkmark and claimed status
+                # CLAIMED - Show claimed status pinned to bottom
                 status_text = "CLAIMED" if lang == "en" else "ЗЕМЕНО"
-                status_y = card_rect.bottom - 28
-                draw_text(surf, status_text, fonts.ui_bold, colors["good"], (card_rect.x + 16, status_y), max_w=card_w - 32)
+                draw_text(surf, status_text, fonts.ui_bold, colors["good"], (card_rect.x + 14, card_rect.bottom - 30), max_w=card_w - 28)
 
         # Restore clip
         surf.set_clip(old_clip)

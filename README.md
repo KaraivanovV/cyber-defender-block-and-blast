@@ -6,6 +6,34 @@ A kid-friendly arcade game that mixes **Tetris-style firewall building** with **
 
 ---
 
+## Play Online / Играј Онлајн
+
+**No install needed — runs directly in your browser.**
+
+**Без инсталација — работи директно во прелистувачот.**
+
+> **Link / Линк:** [https://karaivanovv.github.io/cyber-defender-block-and-blast/](https://karaivanovv.github.io/cyber-defender-block-and-blast/)
+
+### How to play online / Како да играш онлајн
+
+**English**
+1. Click the link above
+2. Wait **30–60 seconds** for the game to load (Python runtime downloads in background — this only happens once per browser)
+3. When the game canvas appears, click on it once to focus it, then use keyboard controls to play
+4. Recommended browsers: **Chrome** or **Firefox**
+5. Note: progress is **not saved** in the browser version — each session starts fresh
+
+**Македонски**
+1. Кликни на линкот горе
+2. Почекај **30–60 секунди** додека играта се вчитува (Python рантајмот се симнува во позадина — ова се случува само еднаш по прелистувач)
+3. Кога ќе се појави платното на играта, кликни еднаш на него за фокус, а потоа користи ги контролите на тастатурата
+4. Препорачани прелистувачи: **Chrome** или **Firefox**
+5. Напомена: напредокот **не се зачувува** во веб верзијата — секоја сесија почнува одново
+
+---
+
+
+
 ## 🚀 Quick Launch (Windows EXE — No Python required) / Брзо Стартување (Windows EXE — без Python)
 
 **🇬🇧 English**
