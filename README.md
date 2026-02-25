@@ -146,47 +146,6 @@ Your choice immediately affects gameplay:
 
 ---
 
-## How to Add Assets Later / Како да додадете средства подоцна
-
-**🇬🇧** The game currently draws **placeholder pixel sprites** in code. You can swap them later by adding PNGs to `assets/images/` and updating `src/assets.py`.
-
-**🇲🇰** Играта тренутно црта **привремени пиксел спрајтови** во код. Може да ги замените подоцна со додавање PNG слики во `assets/images/` и ажурирање на `src/assets.py`.
-
----
-
-## Project Structure / Структура на проектот
-
-```
-cyber_defender_block_blast/
-  main.py
-  requirements.txt
-  README.md
-  data/
-    save.json               (auto-created on first run / автоматски создадена)
-  src/
-    core.py
-    assets.py
-    localization.py
-    save_system.py
-    constants.py
-    ui.py
-    scenes/
-      base.py
-      menu.py
-      settings.py
-      achievements.py
-      credits.py
-      storymap.py
-      game.py
-    gameplay/
-      tetris.py
-      invaders.py
-      scenarios.py
-      progression.py
-```
-
----
-
 ## Notes for Teachers / Parents — Белешки за наставници / родители
 
 **🇬🇧 English**
